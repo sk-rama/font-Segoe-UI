@@ -1,1 +1,15 @@
-abc
+@font-face {
+    font-family: InterVariable;
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("../webfonts/Segoe-UI-Variable/SegoeUI-VF.woff2") format("woff2");
+  }
+  
+  @font-face {
+    font-family: InterVariable;
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("../webfonts/Segoe-UI-Variable/SegoeUI-VF.woff2") format("woff2");
+  }
